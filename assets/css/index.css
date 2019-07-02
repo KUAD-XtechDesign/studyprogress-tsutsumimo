@@ -1,8 +1,11 @@
-h1{
-  font-size: 2.00em;
+h1 {
   color: white;
 }
-li{
-  font-size: 1.50em;
-  color: #0000ff;
+
+a {
+  color: white;
+}
+
+body {
+  background-color: black;
 }
