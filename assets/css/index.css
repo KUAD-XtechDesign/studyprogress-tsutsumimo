@@ -1,5 +1,6 @@
 h1 {
   color: white;
+  font-size: 40px
 }
 
 a {
@@ -8,4 +9,18 @@ a {
 
 body {
   background-color: black;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 20px
+}
+
+.header-logo {
+  margin-top: 310px
+}
+
+.header-list {
+  margin-left: 556px
 }
