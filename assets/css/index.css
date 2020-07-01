@@ -1,26 +1,24 @@
-h1 {
-  color: white;
-  font-size: 40px
-}
-
-a {
-  color: white;
-}
-
 body {
+  color: #fff;
+  font-family: Verdana, sans-sans-serif;
+  margin: 0;
   background-color: black;
 }
 
-li {
-  list-style: none;
-  float: left;
-  padding: 20px
+h1 {
+  margin: 0;
 }
 
-.header-logo {
-  padding-top: 310px
+ul {
+  margin: 0;
 }
 
-.header-list {
-  padding-left: 556px
+.contain {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info {
+  background-color: tomato;
 }
